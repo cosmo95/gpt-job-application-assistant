@@ -25,3 +25,8 @@ examples/ → Sample job descriptions
 ## Goal
 
 To demonstrate how AI-assisted workflows can improve the job application process.
+
+
+## Using the System Prompt
+
+The workflow can be tested directly in ChatGPT by pasting the system_prompt.txt instructions before providing a job description and CV.

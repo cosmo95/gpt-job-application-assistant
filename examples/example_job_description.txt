@@ -1,1 +1,19 @@
+Data Analyst
 
+Location: Remote
+
+We are looking for a Data Analyst to join our analytics team. The ideal candidate will have strong experience in data analysis, SQL, Python, and data visualization.
+
+Responsibilities:
+- Collect, clean, and analyze large datasets from multiple sources
+- Write SQL queries to extract and transform data
+- Perform exploratory data analysis to identify trends and patterns
+- Build dashboards and visualizations using tools such as Tableau or Power BI
+- Work with stakeholders to translate business requirements into analytical solutions
+
+Requirements:
+- Bachelor’s or Master’s degree in Computer Science, Data Science, Statistics, or related field
+- Experience with Python (Pandas, NumPy)
+- Strong SQL skills
+- Familiarity with data visualization tools
+- Understanding of statistical analysis and data modeling
